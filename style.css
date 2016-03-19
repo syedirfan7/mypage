@@ -1,0 +1,187 @@
+body{width:100%;
+background:transparent;
+  overflow-y: scroll;
+overflow-x: hidden;
+}
+
+img{
+  margin-left:2em;
+  margin-top:-.5em;
+ }
+ #buttonsId {
+  float:right;
+  margin-top:-2.5em;
+  margin-right:1em;
+border-radius: 25px;
+}
+#home{
+  width:5%;
+  height:5%;
+}
+h3{
+  color:white;
+  font:bold;
+  margin-top:0;
+  margin-left:.5em;
+  font-family: 'Lobster', cursive;
+}
+ .had {
+  color: #d44b15;
+  text-align: center;
+  font-size: 1em;
+  font-family: Lato,serif;
+  padding: 14em 0em 16em;
+ margin-bottom: 5em;
+}
+
+.had-r1 {
+  line-height: 1em;
+  font-size: 7em;
+  font-weight: 100;
+  font-size:09vw;
+}
+
+.had-num {
+  font-size: 3em;
+  font-style: italic;
+  vertical-align: bottom;
+  margin: 0 -0.3em;
+  font-size:20vw;
+}
+
+.bckgimg{ 
+  background: url(
+https://lh3.googleusercontent.com/-YauCHTSIW2U/VUa8nb-8H6I/AAAAAAAABfQ/uUwWBXUUa9A/w2560-h1440/polygon-wallpaper-12.jpg) no-repeat center center fixed; 
+  
+ // background-repeat:no-repeat;
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+   background-size: cover;
+   padding-top:5px;
+   padding-right:18px;
+  
+}
+
+#aboutId{
+  background:#C0C0C0;
+  border-radius:100px;
+  text-align:center;
+  position:relative;
+  margin-left:1em;
+  margin-top: 5em;
+  font-family: 'Lobster';
+  }
+#list{
+  text-align:left;
+  margin-left:2em;
+  font-family: 'Chewy';
+  font-size:16px;
+}
+#blank{
+  background:transparent;
+ }
+#profileId{
+  background:#FFFF99;
+  margin-top: 10em;
+  font-family: Lobster;
+  border-radius:100px;
+  text-align:center;
+  position:relative;
+  margin-left:1em;
+  }
+iframe{
+  width:50vw;
+  height:25vw;
+}
+
+.portfolioPreview{
+ foreground:url(http://codepen.io/shaafiirfan7/full/VeRxrJ)no-repeat center center fixed ;
+   position:relative;
+  width:200px;
+  height:200px;
+  top:5px;
+  left:5px;
+  display:block;
+  
+}
+#connectId{
+  background:#ff9800;
+  border-radius:100px;
+  position:relative;
+  margin-left:1em;
+ // font-family:Lobster;
+  //font-size:50vw;
+  }
+.email{
+  text-align:left;
+   position:float;
+  margin-top:10em;
+}
+.gmailbutton{
+  margin-left:-.2em;
+  font-weight:bold;
+}
+.social{
+  margin-top:-15em;
+  margin-left:-10em;
+   // float:right;
+  text-align:right;
+}
+#fccimg{
+  height:20px;
+  width: 20px;
+margin-left:.2em;  
+}
+#twitter{
+ font-family:Helvetica Neue;
+  color:#55ACEE;font-weight:bold
+}
+#google{
+ font-family:Roboto;
+  color:#dd4b39;font-weight:bold;
+}
+#facebook{
+ color:#3B5998;font-weight:bold;
+   font-family:Lucida Grande;
+}
+#github{
+  font-family:Collegiate;
+}
+#linkedin{
+  font-family:Avenir Next;
+}
+#fcc{
+  font-family:'Abel';
+  //font-size:17vw;
+}
+.prebuttontext{
+  font-size:160px;
+  font-family: 'Chewy';
+  font-size:20vw;
+    }
+footer{
+  background-color:skyblue;
+  position:relative;
+  margin-left:1em;
+  
+  }
+.footerText{
+  font-family: 'Chewy';
+}
+#mainFooter{
+  font-family:Lobster;
+  margin-top:2em;
+}
+ul.socialNetwork li{
+display: inline-block; 
+  }
+
+ul.socialNetwork{
+  margin-left:-2em;
+  margin-top:-1.5em;
+  }
+#footerRights{
+  margin-top:3em;
+  font-family: 'Chewy';
+}
